@@ -19,9 +19,9 @@ Feel free to checkout my [website](https://ssmith.io) too.
 
 I am a huge fan of [Overwatch](https://playoverwatch.com/en-us/). I also enjoy Minecraft, EFT, and Satisfactory.
 
-🚀 Investing
+<!-- 🚀 Investing -->
 
-Investing is a more recent interest I've taken up only in the past few years have I been able to try it out and I think I'm getting better at it. One thing I've learned is to go with [Webull](https://act.webull.com/v/hRHppUAgijjI/0am/) over [Robinhood](http://join.robinhood.com/stephes769) for it's extended hours trading(4am-7pm@free vs 9am-6pm@$5/mo).
+<!-- Investing is a more recent interest I've taken up only in the past few years have I been able to try it out and I think I'm getting better at it. One thing I've learned is to go with [Webull](https://act.webull.com/v/hRHppUAgijjI/0am/) over [Robinhood](http://join.robinhood.com/stephes769) for it's extended hours trading(4am-7pm@free vs 9am-6pm@$5/mo). -->
 
 <!-- [![GitHub Status](https://github-readme-stats.vercel.app/api?username=stemsmit&&show_icons=true)](https://ssmith.io) -->
 
