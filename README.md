@@ -3,8 +3,6 @@
 ## Hi there 👋
  My name is Stephen. I am a Web Developer and UX Engineer with 6+ years of experience. I have professional experience with Prebid.js, Node, Express, React, PHP, CI/CD, GCP, AWS and much more. 
 
-[![Profile views](https://gpvc.arturio.dev/stemsmit)](https://ssmith.io)
-
 🔭 I’m currently working as a Lead Engineer at Spiny.ai.
 
 💬 Ask me about anything related to programming by creating a new issue at [this repo](https://github.com/stemsmit/stemsmit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
