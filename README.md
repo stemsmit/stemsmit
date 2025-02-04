@@ -5,7 +5,7 @@
 
 [![Profile views](https://gpvc.arturio.dev/stemsmit)](https://ssmith.io)
 
-🔭 I’m currently working on the display advertising library and supporting infrastructure for ViacomCBS.
+🔭 I’m currently working as a Lead Engineer at Spiny.ai.
 
 💬 Ask me about anything related to programming by creating a new issue at [this repo](https://github.com/stemsmit/stemsmit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
