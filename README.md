@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
- My name is Stephen. I am a Web Developer and UX Engineer with 6+ years of experience. I have professional experience with Prebid.js, Node, Express, React, PHP, CI/CD, GCP, AWS and much more. 
+ My name is Stephen. I am a Web Developer and UX Engineer with 10+ years of experience. I have professional experience with Prebid.js, Node, Express, React, PHP, CI/CD, GCP, AWS and much more. 
 
 🔭 I’m currently working as a Lead Engineer at Spiny.ai.
 
@@ -11,7 +11,7 @@
 
 Feel free to checkout my [website](https://ssmith.io) too.
 
-#### ⚡ Additional Interests
+<!-- #### ⚡ Additional Interests
 
 🖥 Gaming
 
